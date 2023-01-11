@@ -14,3 +14,8 @@ git config --global user.name: cambia de manera global el nombre del usuario, se
 git config --global user.email: cambia de manera global el email del usuario, seguidamente ponemos entre comillas nuestro nombre.
 
 git log: se usa para ver la historia de nuestros archivos, los commits, el usuario que lo cambió, cuando se realizaron los cambios etc. seguidamente ponemos el nombre de nuestro archivo.
+
+git show : Sirve para revisar los cambios hechos anteriormete con dettales saber que se modicifico.
+
+git diff : es para comparar los archivos con uno determinado para mostrandolas diferencias entre uno y el otro
+
